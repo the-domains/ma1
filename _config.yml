@@ -1,0 +1,14 @@
+layout_spectrum: 0.029806593200191855
+typography_spectrum: 0.5000242674723268
+color:
+  brandStrength: 0.28331710305064917
+  lightness: 0.2157195727340877
+  saturation: 0.39237856143154204
+  rhythmicContrast: 0.3913197962101549
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: MA1
